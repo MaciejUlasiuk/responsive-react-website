@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/responsive-react-website/static/css/main.e94b55a0.chunk.css",
-    "main.js": "/responsive-react-website/static/js/main.abc5a97b.chunk.js",
-    "main.js.map": "/responsive-react-website/static/js/main.abc5a97b.chunk.js.map",
+    "main.js": "/responsive-react-website/static/js/main.f83d76be.chunk.js",
+    "main.js.map": "/responsive-react-website/static/js/main.f83d76be.chunk.js.map",
     "runtime-main.js": "/responsive-react-website/static/js/runtime-main.1595831f.js",
     "runtime-main.js.map": "/responsive-react-website/static/js/runtime-main.1595831f.js.map",
     "static/js/2.5cd5786a.chunk.js": "/responsive-react-website/static/js/2.5cd5786a.chunk.js",
     "static/js/2.5cd5786a.chunk.js.map": "/responsive-react-website/static/js/2.5cd5786a.chunk.js.map",
     "index.html": "/responsive-react-website/index.html",
-    "precache-manifest.9c99078a2ddae6b9cf1abe6c8e8218e9.js": "/responsive-react-website/precache-manifest.9c99078a2ddae6b9cf1abe6c8e8218e9.js",
+    "precache-manifest.aa00e7a8ffa4343bd5b5c404cdb0c1c0.js": "/responsive-react-website/precache-manifest.aa00e7a8ffa4343bd5b5c404cdb0c1c0.js",
     "service-worker.js": "/responsive-react-website/service-worker.js",
     "static/css/main.e94b55a0.chunk.css.map": "/responsive-react-website/static/css/main.e94b55a0.chunk.css.map",
     "static/js/2.5cd5786a.chunk.js.LICENSE.txt": "/responsive-react-website/static/js/2.5cd5786a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1595831f.js",
     "static/js/2.5cd5786a.chunk.js",
     "static/css/main.e94b55a0.chunk.css",
-    "static/js/main.abc5a97b.chunk.js"
+    "static/js/main.f83d76be.chunk.js"
   ]
 }
